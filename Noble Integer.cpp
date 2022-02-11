@@ -1,4 +1,3 @@
-
 int Solution::solve(vector<int> &A){
     sort(A.begin(),A.end());
     int flag=-1,j=0;
